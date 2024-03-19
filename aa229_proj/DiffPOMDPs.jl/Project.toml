@@ -1,0 +1,4 @@
+name = "DiffPOMDPs"
+uuid = "742ba1ce-09e5-43c7-b37a-69d00072686b"
+authors = ["Michelle Ho <mtho@princeton.edu>"]
+version = "0.1.0"

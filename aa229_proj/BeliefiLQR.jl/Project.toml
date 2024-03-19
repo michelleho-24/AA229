@@ -1,0 +1,4 @@
+name = "BeliefiLQR"
+uuid = "2493a2f8-f0d3-4fc6-9bbb-85c462d794d1"
+authors = ["Michelle Ho <mtho@princeton.edu>"]
+version = "0.1.0"

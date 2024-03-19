@@ -1,0 +1,4 @@
+name = "LightDark"
+uuid = "34ce5e5f-06b7-4c83-a433-a2e077664913"
+authors = ["Michelle Ho <mtho@princeton.edu>"]
+version = "0.1.0"

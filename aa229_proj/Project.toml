@@ -1,0 +1,11 @@
+name = "aa229_proj"
+uuid = "69d64539-c81d-496f-a5a3-b975d53c4c94"
+authors = ["Michelle Ho <mtho@princeton.edu>"]
+version = "0.1.0"
+
+[deps]
+Altro = "5dcf52e5-e2fb-48e0-b826-96f46d2e3e73"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+RobotDynamics = "38ceca67-d8d3-44e8-9852-78a5596522e1"
+RobotZoo = "74be38bb-dcc2-4b9e-baf3-d6373cd95f10"
+TrajectoryOptimization = "c79d492b-0548-5874-b488-5a62c1d9d0ca"
